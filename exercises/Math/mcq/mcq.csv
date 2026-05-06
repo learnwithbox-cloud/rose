@@ -1,0 +1,11 @@
+q_id,question,opt_a,opt_b,opt_c,opt_d,answer,audio
+1,What is the main subject of this course?,Physics,Mathematics,Chemistry,Biology,A,q_01.wav
+2,Who funded the experimental pilot program to tape the lectures?,Hewlett Foundation,Yale University,National Science Foundation,Private donors,A,q_02.wav
+3,What is kinematics in physics?,The study of why objects move,The description of how objects change over time,The study of the properties of materials,The study of energy and its transformations,B,q_03.wav
+4,What is the simplest example being used to illustrate kinematics?,A mathematical point moving along a line,A rigid body rotating in space,A complex system of interacting particles,A non-living object with spatial extent,A,q_04.wav
+5,What is the unit of time being used in this course?,Minutes,Seconds,Hours,Days,B,q_05.wav
+6,Why is it important to keep track of units in physics?,To make calculations easier,To ensure accuracy and precision,To follow a specific convention,To avoid confusion,B,q_06.wav
+7,What is being emphasized as the best way to learn physics?,Starting with complex examples and gradually simplifying them,Starting with simple examples and slowly adding complexity,Focusing on mathematical derivations only,Using visual aids and simulations,B,q_07.wav
+8,What is the main difference between kinematics and dynamics?,"Kinematics describes why objects move, while dynamics describes how they change","Kinematics describes the properties of materials, while dynamics describes their behavior under different conditions","Kinematics is concerned with motion in one dimension only, while dynamics considers motion in multiple dimensions",Kinematics is a more advanced topic than dynamics,A,q_08.wav
+9,What is the purpose of picking an origin and placing markers to measure distance?,To create a coordinate system for the object's motion,To define the limits of the object's movement,To establish a reference frame for the object's position,To determine the object's velocity,C,q_09.wav
+10,What is being emphasized as essential to understanding physics?,Mathematical derivations and formulas,Physical principles and laws,Units and measurements,Visual aids and simulations,B,q_10.wav

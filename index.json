@@ -1,0 +1,249 @@
+{
+  "lessons": {
+    "en": {
+      "Math": [
+        "part_1.wav",
+        "part_10.wav",
+        "part_11.wav",
+        "part_12.wav",
+        "part_13.wav",
+        "part_14.wav",
+        "part_15.wav",
+        "part_16.wav",
+        "part_17.wav",
+        "part_18.wav",
+        "part_19.wav",
+        "part_2.wav",
+        "part_20.wav",
+        "part_21.wav",
+        "part_22.wav",
+        "part_23.wav",
+        "part_24.wav",
+        "part_25.wav",
+        "part_3.wav",
+        "part_4.wav",
+        "part_5.wav",
+        "part_6.wav",
+        "part_7.wav",
+        "part_8.wav",
+        "part_9.wav"
+      ]
+    },
+    "es": {
+      "Math": [
+        "part_1.wav",
+        "part_10.wav",
+        "part_11.wav",
+        "part_12.wav",
+        "part_13.wav",
+        "part_14.wav",
+        "part_15.wav",
+        "part_16.wav",
+        "part_17.wav",
+        "part_18.wav",
+        "part_19.wav",
+        "part_2.wav",
+        "part_20.wav",
+        "part_21.wav",
+        "part_22.wav",
+        "part_23.wav",
+        "part_24.wav",
+        "part_25.wav",
+        "part_3.wav",
+        "part_4.wav",
+        "part_5.wav",
+        "part_6.wav",
+        "part_7.wav",
+        "part_8.wav",
+        "part_9.wav"
+      ]
+    },
+    "zh": {
+      "Math": [
+        "part_1.wav",
+        "part_10.wav",
+        "part_11.wav",
+        "part_12.wav",
+        "part_13.wav",
+        "part_14.wav",
+        "part_15.wav",
+        "part_16.wav",
+        "part_17.wav",
+        "part_18.wav",
+        "part_19.wav",
+        "part_2.wav",
+        "part_20.wav",
+        "part_21.wav",
+        "part_22.wav",
+        "part_23.wav",
+        "part_24.wav",
+        "part_25.wav",
+        "part_3.wav",
+        "part_4.wav",
+        "part_5.wav",
+        "part_6.wav",
+        "part_7.wav",
+        "part_8.wav",
+        "part_9.wav"
+      ]
+    },
+    "ru": {
+      "Math": [
+        "part_1.wav",
+        "part_10.wav",
+        "part_11.wav",
+        "part_12.wav",
+        "part_13.wav",
+        "part_14.wav",
+        "part_15.wav",
+        "part_16.wav",
+        "part_17.wav",
+        "part_18.wav",
+        "part_19.wav",
+        "part_2.wav",
+        "part_20.wav",
+        "part_21.wav",
+        "part_22.wav",
+        "part_23.wav",
+        "part_24.wav",
+        "part_25.wav",
+        "part_3.wav",
+        "part_4.wav",
+        "part_5.wav",
+        "part_6.wav",
+        "part_7.wav",
+        "part_8.wav",
+        "part_9.wav"
+      ]
+    },
+    "ja": {
+      "Math": [
+        "part_1.wav",
+        "part_10.wav",
+        "part_11.wav",
+        "part_12.wav",
+        "part_13.wav",
+        "part_14.wav",
+        "part_15.wav",
+        "part_16.wav",
+        "part_17.wav",
+        "part_18.wav",
+        "part_19.wav",
+        "part_2.wav",
+        "part_20.wav",
+        "part_21.wav",
+        "part_22.wav",
+        "part_23.wav",
+        "part_24.wav",
+        "part_25.wav",
+        "part_3.wav",
+        "part_4.wav",
+        "part_5.wav",
+        "part_6.wav",
+        "part_7.wav",
+        "part_8.wav",
+        "part_9.wav"
+      ]
+    },
+    "ko": {
+      "Math": [
+        "part_1.wav",
+        "part_10.wav",
+        "part_11.wav",
+        "part_12.wav",
+        "part_13.wav",
+        "part_14.wav",
+        "part_15.wav",
+        "part_16.wav",
+        "part_17.wav",
+        "part_18.wav",
+        "part_19.wav",
+        "part_2.wav",
+        "part_20.wav",
+        "part_21.wav",
+        "part_22.wav",
+        "part_23.wav",
+        "part_24.wav",
+        "part_25.wav",
+        "part_3.wav",
+        "part_4.wav",
+        "part_5.wav",
+        "part_6.wav",
+        "part_7.wav",
+        "part_8.wav",
+        "part_9.wav"
+      ]
+    },
+    "vi": {
+      "Math": [
+        "part_1.wav",
+        "part_10.wav",
+        "part_11.wav",
+        "part_12.wav",
+        "part_13.wav",
+        "part_14.wav",
+        "part_15.wav",
+        "part_16.wav",
+        "part_17.wav",
+        "part_18.wav",
+        "part_19.wav",
+        "part_2.wav",
+        "part_20.wav",
+        "part_21.wav",
+        "part_22.wav",
+        "part_23.wav",
+        "part_24.wav",
+        "part_25.wav",
+        "part_3.wav",
+        "part_4.wav",
+        "part_5.wav",
+        "part_6.wav",
+        "part_7.wav",
+        "part_8.wav",
+        "part_9.wav"
+      ]
+    },
+    "fa": {
+      "Math": []
+    },
+    "tl": {
+      "Math": []
+    },
+    "so": {
+      "Math": []
+    }
+  },
+  "exercises": {
+    "Math": {
+      "mcq": [
+        "mcq.csv",
+        "q_01.wav",
+        "q_02.wav",
+        "q_03.wav",
+        "q_04.wav",
+        "q_05.wav",
+        "q_06.wav",
+        "q_07.wav",
+        "q_08.wav",
+        "q_09.wav",
+        "q_10.wav"
+      ],
+      "tf": [
+        "q_01.wav",
+        "q_02.wav",
+        "q_03.wav",
+        "q_04.wav",
+        "q_05.wav",
+        "q_06.wav",
+        "q_07.wav",
+        "q_08.wav",
+        "q_09.wav",
+        "q_10.wav",
+        "tf.csv"
+      ],
+      "flashcards": [
+        "flashcards.csv"
+      ]
+    }
+  }
+}
